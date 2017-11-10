@@ -1,0 +1,7 @@
+.ajax_message{
+  background-color:#eee;
+  color:#666;
+  border-radius:4px;
+  padding:10px;
+  display:none;
+}
